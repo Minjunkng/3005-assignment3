@@ -1,0 +1,2 @@
+# Psycopg 3 PostgreSQL adapter, including its binary runtime.
+psycopg[binary]==3.2.13

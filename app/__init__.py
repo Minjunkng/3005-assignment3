@@ -1,0 +1,1 @@
+"""PostgreSQL student management application."""
