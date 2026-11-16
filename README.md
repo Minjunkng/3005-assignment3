@@ -122,3 +122,7 @@ closes a connection. Successful operations commit; exceptions roll back.
 | `addStudent(...)` | Returns the integer ID of the committed new record |
 | `updateStudentEmail(...)` | Returns `True` when updated, `False` if absent |
 | `deleteStudent(...)` | Returns `True` when deleted, `False` if absent |
+
+## Video demonstration on Youtube
+
+https://www.youtube.com/watch?v=7BMn9kf258g
